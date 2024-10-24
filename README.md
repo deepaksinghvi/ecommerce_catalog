@@ -3,13 +3,13 @@
 [E-Commerce App]
 <img title="E-Commerce App" alt="E-Commerce App" src="ecommerce-app.png">
 
-## To Run
+## To Run Locally
 ```
 flutter run or 
 flutter run - chrome
 ```
 
-## To deploy to firebase
+## To deploy to Firebase
 
 ```
 flutter build web
